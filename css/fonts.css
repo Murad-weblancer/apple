@@ -1,0 +1,36 @@
+@font-face{
+    font-family: 'Notosans';
+    font-weight: 400;
+    src: url('../fonts/NotoSans-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Notosans';
+    font-weight: 500;
+    src: url('../fonts/NotoSans-Italic.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Notosans';
+    font-weight: 700;
+    src: url('../fonts/NotoSans-Bold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icons';
+    font-weight: 400;
+    src: url('../fonts/webfonts/fa-regular-400.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icons';
+    font-weight: 300;
+    src: url('../fonts/webfonts/fa-light-300.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icons';
+    font-weight: 300;
+    src: url('../fonts/webfonts/fa-light-300.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icons';
+    font-weight: 900;
+    src: url('../fonts/webfonts/fa-solid-900.ttf') format('truetype');
+}
+

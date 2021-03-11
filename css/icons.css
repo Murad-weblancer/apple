@@ -1,0 +1,7 @@
+.icon-user::before{content: '\f007'; font-weight: 300;}
+.icon-phone::before{content: '\f879'; font-weight: 400;}
+.icon-shopping::before{content: '\f07a'; font-weight: 400;}
+.icon-sort::before{content: '\f0de'; font-weight: 900;}
+.icon-finder::before{content: '\f002'; font-weight: 400;}
+.icon-next::before{content: '\f054'; font-weight:900;}
+.icon-prev::before{content: '\f053'; font-weight:900;}
